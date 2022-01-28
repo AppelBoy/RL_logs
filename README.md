@@ -1,5 +1,5 @@
 <h4 align="center">
-	<a href="https://discord.gg/AppelBoy" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/828781961156886549/widget.png"></a>
+	<a href="https://discord.gg/RedlineRoleplay" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/828781961156886549/widget.png"></a>
 </h4>
 
 <div align="center">
