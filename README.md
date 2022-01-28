@@ -1,9 +1,4 @@
 <h4 align="center">
-	<img src="https://img.shields.io/github/release/AppelBoy/.png">
-	<img src="https://img.shields.io/github/last-commit/AppelBoy/">
-	<img src="https://img.shields.io/github/license/AppelBoy/.png">
-	<img src="https://img.shields.io/github/issues/AppelBoy/.png">
-	<img src="https://img.shields.io/github/contributors/AppelBoy/.png">
 	<a href="https://discord.gg/AppelBoy" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/828781961156886549/widget.png"></a>
 </h4>
 
@@ -24,7 +19,7 @@
     ·
     <a href="https://github.com/AppelBoy/RL_logs/issues">Request Feature</a>
   </p>
-  <a href="https://discord.gg/AppelBoy" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/828781961156886549/widget.png?style=banner2"></a>
+  <a href="https://discord.gg/RedlineRoleplay" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/828781961156886549/widget.png?style=banner2"></a>
 </div>
 
 
