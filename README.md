@@ -53,7 +53,7 @@
 2. Put the  folder in the server resource directory
 3. Add this to your `server.cfg`
 ```
-ensure 
+ensure RL_logs
 ```
 
-### ❓ For more questions you can join the discord here: https://discord.gg/AppelBoy
+### ❓ For more questions you can join the discord here: https://discord.gg/RedlineRoleplay
