@@ -1,5 +1,5 @@
 <h4 align="center">
-	<a href="https://discord.gg/RedlineRoleplay" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/828781961156886549/widget.png"></a>
+	<a href="https://redlinerp.es/discord" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/828781961156886549/widget.png"></a>
 </h4>
 
 <div align="center">
@@ -19,7 +19,7 @@
     ·
     <a href="https://github.com/AppelBoy/RL_logs/issues">Request Feature</a>
   </p>
-  <a href="https://discord.gg/RedlineRoleplay" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/828781961156886549/widget.png?style=banner2"></a>
+  <a href="https://redlinerp.es/discord" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/828781961156886549/widget.png?style=banner2"></a>
 </div>
 
 
@@ -51,4 +51,4 @@
 ensure RL_logs
 ```
 
-### ❓ For more questions you can join the discord here: https://discord.gg/RedlineRoleplay
+### ❓ For more questions you can join the discord here: https://redlinerp.es/discord
