@@ -24,7 +24,7 @@
     ·
     <a href="https://github.com/AppelBoy/RL_logs/issues">Request Feature</a>
   </p>
-  <a href="https://discord.gg/AppelBoy" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/721339695199682611/widget.png?style=banner2"></a>
+  <a href="https://discord.gg/AppelBoy" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/828781961156886549/widget.png?style=banner2"></a>
 </div>
 
 
